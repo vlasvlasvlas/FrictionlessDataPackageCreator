@@ -1,0 +1,19 @@
+{
+    "name": "dataset2",
+    "title": "Dataset 2",
+    "description": "Descripción del Dataset 2 con datos de demostración.",
+    "resources": [
+      {
+        "path": "data.csv",
+        "schema": {
+          "fields": [
+            {"name": "IdProyecto", "type": "string", "description": "Identificador único del proyecto"},
+            {"name": "NombreProyecto", "type": "string", "description": "Nombre del proyecto"},
+            {"name": "AnioFinProyecto", "type": "string", "description": "Año de fin del proyecto"},
+            {"name": "Sector", "type": "string", "description": "Sector asociado al proyecto"}
+          ]
+        }
+      }
+    ]
+  }
+  

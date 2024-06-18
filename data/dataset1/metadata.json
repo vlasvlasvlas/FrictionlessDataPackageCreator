@@ -1,0 +1,19 @@
+{
+    "name": "dataset1",
+    "title": "Dataset 1",
+    "description": "Descripción del Dataset 1 con datos de demostración.",
+    "resources": [
+      {
+        "path": "data.csv",
+        "schema": {
+          "fields": [
+            {"name": "IdProyecto", "type": "string", "description": "Identificador único del proyecto"},
+            {"name": "NombreProyecto", "type": "string", "description": "Nombre del proyecto"},
+            {"name": "AnioInicioProyecto", "type": "string", "description": "Año de inicio del proyecto"},
+            {"name": "CostoEstimadoProyecto", "type": "string", "description": "Costo estimado del proyecto"}
+          ]
+        }
+      }
+    ]
+  }
+  
