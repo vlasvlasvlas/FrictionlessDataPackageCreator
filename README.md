@@ -168,4 +168,6 @@ Este proyecto está licenciado bajo los términos de la licencia MIT. Consulta e
 
 ---
 
+Para más información sobre Frictionless Data, visita [este enlace](https://frictionlessdata.io/introduction/).
+
 ¡Gracias por usar Frictionless Data Package Creator! Si tienes alguna pregunta o problema, no dudes en abrir un issue en el repositorio de GitHub.
